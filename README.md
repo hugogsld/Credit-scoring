@@ -1,7 +1,7 @@
 # Final Report: Credit Scoring - Customer Churn Prediction
 
 ## Authors
-Corve, Gesland, Sibieude
+Gesland, Sibieude, Corve
 
 ## Business Case & Problem
 Société Générale faces a rising customer churn rate, threatening its revenue and market position, especially against competitors like BNP Paribas and Crédit Agricole. By identifying at-risk customers, the bank can implement proactive retention strategies, such as offering personalized services, to reduce churn and optimize resource allocation.
